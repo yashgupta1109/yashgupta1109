@@ -42,22 +42,25 @@ See more on my <a href="#" target="_blank">website</a>
 <div align="center">
 <a href="https://github.com/yashgupta1109/github-readme-stats" alt="">
     <img src="https://github-readme-stats.vercel.app/api?username=yashgupta1109&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgupta1109&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
-</a>
+</a>   
+ <br>
+    <br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashgupta1109&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"/></a>
 </div>
 
 ---
 
+
 <h3 align="center">Let's Connect ☕</h3>
 <p align="center"> 
   <a href="www.linkedin.com/in/yash-gupta-3ab8a21a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/yash_gupta_11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://instagram.com/yash_gupta_11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href = "mailto:yashgupta0911@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<p align="center">
-    <img src = "https://komarev.com/ghpvc/?username=yashgupta1109&color=0d1117&style=flat-square">
-</p>
+ <p align="center">Visitor count</p>
+ <p align="center"><img src="https://profile-counter.glitch.me/yashgupta1109/count.svg" style="max-width: 100%;"></p>
+ <br>
 
 
 ![EndImage](./materials/bottom.svg)
