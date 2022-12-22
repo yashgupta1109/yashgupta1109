@@ -39,10 +39,12 @@ See more on my <a href="#" target="_blank">website</a>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <h3 align="center">GitHub Analytics ⚙️</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats" alt="">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlessioCasolaro&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioCasolaro&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
+<div align="center">
+<a href="https://github.com/yashgupta1109/github-readme-stats" alt="">
+    <img src="https://github-readme-stats.vercel.app/api?username=yashgupta1109&hide=stars&show_icons=true&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgupta1109&layout=compact&theme=dark&hide_border=true&icon_color=2764ba&bg_color=0d1117"> 
 </a>
+</div>
 
 ---
 
@@ -54,7 +56,7 @@ See more on my <a href="#" target="_blank">website</a>
 </p>
 
 <p align="center">
-    <img src = "https://komarev.com/ghpvc/?username=AlessioCasolaro&color=0d1117&style=flat-square">
+    <img src = "https://komarev.com/ghpvc/?username=yashgupta1109&color=0d1117&style=flat-square">
 </p>
 
 
