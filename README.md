@@ -1,12 +1,22 @@
-![TitleImage](./materials/top.svg)
+![MasterHead](https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png)
+<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+<br><br>
 
-🎓&nbsp;I am pursing Bachelor's degree in Information Technology at the JSS Academy Of Technical Education, Noida.<br>
-🎓&nbsp;I have Diploma in Computer Science & Engineering from Government Polytechic, Pratapgarh.<br>
-📚&nbsp;I'm currently studying Machine Learning at the JSS Academy Of Technical Education, Noida.<br>
-🌱&nbsp;I'm on track for learning more about Web technologies, Machine Learning and a little bit of Security.<br>
+- 🔭 I’m currently working on [Live Project of JSS-FMS for JSSATEN](https://github.com/yashgupta1109/JSS-SIM2)
 
-See more on my <a href="#" target="_blank">website</a> 
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **react, php, c++**
+
+- 📫 How to reach me **yashgupta0911@gmail.com**
+
+- ⚡ Fun fact **I think I am Overthinker**
+<br>
+<br>
+<br>
 
 ---
 
@@ -38,6 +48,8 @@ See more on my <a href="#" target="_blank">website</a>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
+
 <h3 align="center">GitHub Analytics ⚙️</h3>
 <div align="center">
 <a href="https://github.com/yashgupta1109/github-readme-stats" alt="">
@@ -53,7 +65,7 @@ See more on my <a href="#" target="_blank">website</a>
 
 <h3 align="center">Let's Connect ☕</h3>
 <p align="center"> 
-  <a href="www.linkedin.com/in/yash-gupta-3ab8a21a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/yash-gupta-3ab8a21a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
   <a href="https://instagram.com/yash_gupta_11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href = "mailto:yashgupta0911@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
@@ -63,7 +75,6 @@ See more on my <a href="#" target="_blank">website</a>
  <br>
 
 
-![EndImage](./materials/bottom.svg)
 
 
 <!---
